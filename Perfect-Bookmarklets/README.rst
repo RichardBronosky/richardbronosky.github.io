@@ -26,9 +26,18 @@ Example
 -------
 ::
 
-    <p>Bookmark this link: <a id="foo" href="#">foo</a> <label for="foo"></label></p>
+    <p>
+      Bookmark this link:
+        <a id="foo" href="#">foo</a>
+        <label for="foo"></label>
+    </p>
+
     <script type='text/javascript' src='crunch.js'>
-    bookmarklet('foo', 'Greeting', function(){ alert('Hello World'); });
+      bookmarklet('foo', 'Greeting',
+        function(){
+          alert('Hello World');
+        }
+      );
     </script>
 
 --------------------------------------------------------------------------------
