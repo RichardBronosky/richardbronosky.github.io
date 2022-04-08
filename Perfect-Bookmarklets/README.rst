@@ -44,4 +44,4 @@ Example
 
 Demo
 ----
-`Bookmarklet for printing USPS shipping labels via iPad/iPhone/Android device <http://richardbronosky.github.com/Perfect-Bookmarklets/usps.html>`_
+`Bookmarklet for printing USPS shipping labels via iPad/iPhone/Android device <http://richardbronosky.github.io/Perfect-Bookmarklets/usps.html>`_
